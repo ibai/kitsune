@@ -134,8 +134,8 @@ products = SortedDict([
             # TODO: Just use the IA topics for this.
             ('download-and-install', {
                 'name': _lazy(u'Download and install apps'),
-                'topic': 'download-and-install',
-                'tags': ['download-and-install'],
+                'topic': 'marketplace',
+                'tags': ['marketplace'],
             }),
             ('customize', {
                 'name': _lazy(u'Customize controls, options, settings and preferences'),
