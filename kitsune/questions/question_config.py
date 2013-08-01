@@ -128,7 +128,7 @@ products = SortedDict([
        'name': _lazy(u'Firefox OS'),
        'subtitle': '',
        'extra_fields': [],
-       'tags': [],
+       'tags': ['firefox-os'],
        'products': ['firefox-os'],
        'categories': SortedDict([
            # TODO: Just use the IA topics for this.
